@@ -1,0 +1,101 @@
+Open your browser and visit google.com
+
+In the search box start typing the title of this lecture "Introduction to text ..."
+
+Notice as you continue typing a list of suggestion appears
+i've followed all the above instructions
+
+What do you observe in the list of suggestion? Are there any patterns?
+
+I start google from "I" then "n" and so on to complete "Introduction To Text Analysis". (I ingnored my recent searched suggestion
+just because they are start with installing or install) before the obeservation i was thinking google suggestion are bassed on Alphabets.
+but I was wrong. because the new search suggestion which I never searched before was related "India Corona Virus" and "Islamic date" etc.
+so i discovered new observation and that was "Google give us suggestion according to recent activity happen near you or may be in the world
+and the second one the occation happening at my location or country" 
+
+then I realise I am using my gmail and may be these search suggestion retrived just becasue of my social accounts linked to my gmail.
+so I decided to change my device, created a new gamil and now I searched the same.and I found almost same suggestion regarding to india, ipl, iftar and Islam.
+
+when I typed "IN" I confirmed my self there is no alphabatic order is followed by Google because it shows me "instagram" at top and "infinix and india" at buttom.
+and the most happiest thing I have noticed "lemmatizing" (on my old gmail there was 'to, and, of, for' were displayed") that was a next level satisfaction.
+
+"INT" shows me the suggestion start with "internet" and introvert last two searches are "integration" "intimate". 
+I conclude may be google suggest us on the basis of top searches and end as possibility of upcoming vowel.
+
+"INTR" and I found the possible vowel are added that complete the word introduction, intransitive, intrinsic etc   
+
+"INTRO" i found google very smart because it know the upcomming word can not be a vowel.
+"INTROD" then google shows me again vowel "U" it seems like googled confirmed it's INTRODUCE or INTRODUCTION.
+so I decided to complete the word "INTRODUCTION"
+it shows me Introductio synonym
+and introduction yourself
+rather then this google forget "lemmatizing" it suggest me 'to', 'of'.
+may be the sugestion was on the basis of popular searches
+
+"INTRODUCTION TO T" on the top suggestion it shows me "Trigromatery class 10". recently class 10th exam were held. Thermodynamics as well
+after that I observed "INTRODUCTION TO Textile" "INTRODUCTION TO Tolpology" "INTRODUCTION TO Technology" up comming vowel  and popular searches.
+
+INTRODUCTION TO Te googled shows me all suggestion regarding to textile (clothing, designing, printing) Eid is nearest upcoming ocation.
+INTRODUCTION TO Text now it shows me INTRODUCTION TO Text Analysis result at top
+and at buttom "INTRODUCTION TO Textarea", "INTRODUCTION TO Text to girl", "INTRODUCTION TO atom Text editor"
+so I created a hypothsis "google suggest us on the basis of people most searched and suggest the word with vowel" 
+
+
+Repeat steps 2 to 4 but this time use duckduckgo.com
+Done..!!
+
+Repeat step 2 to 4 and this time use bing.com
+Done..!
+
+Which search engine's list of suggestion is better and why?
+in between google, bing and duckduckgo 
+i found google suggestion effecting just because the initial suggestion was related to recent activity.
+and other side bing and duckduckgo suggestion was not effected till end it doesn't recognise what I trying to retrive.
+offcourse google suggestion were litle bit fast then bing and duckduckgo too.
+
+
+observe the list of search results for "introduction to text analysis" on 3 search engines, google, duckduckgo and bing
+
+done..!
+
+Do all search engines return the same result?
+
+top result were fully similar, but image result were little bit diffrent.
+but intresting thing was about result
+google About 1,020,000,000 results (0.39 seconds) 
+bing 541,000 Results
+duckduck go doesn't shows how many result it founds
+
+Which site is listed in the top 5 results of all 3 search engines?
+
+at the top of these serch engine was
+https://guides.library.duke.edu/text_analysis#:~:text=Introduction%20to%20Text%20Analysis%3A%20About%20Text%20Analysis&text=%22Text%20analysis%22%20is%20a%20broad,can%20be%20organized%20and%20described.
+
+(almost all of these three search engine has same websites at top)
+
+Do you think that the order of the websites in the search results is important?
+
+yes it's important. because the search engines were diffrent so I was expacting diffrent results.
+
+
+Try to find which mechanism / formula / algorithm(s) are being used to order the results.
+
+I observed all the search result, top 3 to 4 results are fully same "WebResults"
+pictures, news, books these were showing diffrent results.
+and i found that maybe the most visited sites are on top
+at the rest most visited site on 2020, then 2019 and so on.
+
+i was not satisfied
+so i googled it which machanism and algorithm or formula are used in order the result
+
+i found an article (https://blog.alexa.com/how-search-engines-work/)
+ summary of that article:
+the algorithm/machanism or formula through which search engines shows us result were quite secrate.
+the basics are "A search engine has many interlinked machanism that works togather"
+there are three basic mechanisms
+web crawlers: bots are created and they search new pages. they collect information and index them.
+search index: a record of web pages organized and they allow association between keyword terms and page content.
+search algoriths: the designed to figure out how relevant that page is to a search term, and determine how the results are ranked based on quality and popularity.
+
+and in course of semantic web I've studied Ontologies Rdf and SPARQl I am pretty sure these terminologies mudt be used
+when developing search engines.
